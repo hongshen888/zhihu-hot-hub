@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-05-08 12:14:05 +0800`
+`更新时间：2025-05-08 13:10:45 +0800`
 
 ## 热门搜索
 
-1. [美国正式取消对中国小额包裹免税政策](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%AD%A3%E5%BC%8F%E5%8F%96%E6%B6%88%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%B0%8F%E9%A2%9D%E5%8C%85%E8%A3%B9%E5%85%8D%E7%A8%8E%E6%94%BF%E7%AD%96)
-1. [迄今导电性最强有机分子问世](https://www.zhihu.com/search?q=%E8%BF%84%E4%BB%8A%E5%AF%BC%E7%94%B5%E6%80%A7%E6%9C%80%E5%BC%BA%E6%9C%89%E6%9C%BA%E5%88%86%E5%AD%90%E9%97%AE%E4%B8%96)
+1. [海军究竟能有多烧钱](https://www.zhihu.com/search?q=%E6%B5%B7%E5%86%9B%E7%A9%B6%E7%AB%9F%E8%83%BD%E6%9C%89%E5%A4%9A%E7%83%A7%E9%92%B1)
+1. [为什么中国要用五孔插座](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E8%A6%81%E7%94%A8%E4%BA%94%E5%AD%94%E6%8F%92%E5%BA%A7)
 1. [人的大脑会不会出现「过拟合」病](https://www.zhihu.com/search?q=%E4%BA%BA%E7%9A%84%E5%A4%A7%E8%84%91%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BA%E7%8E%B0%E3%80%8C%E8%BF%87%E6%8B%9F%E5%90%88%E3%80%8D%E7%97%85)
 1. [知乎旧物节](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%97%A7%E7%89%A9%E8%8A%82)
 1. [寻找穿越时光的旧物](https://www.zhihu.com/search?q=%E5%AF%BB%E6%89%BE%E7%A9%BF%E8%B6%8A%E6%97%B6%E5%85%89%E7%9A%84%E6%97%A7%E7%89%A9)
