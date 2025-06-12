@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-06-12 20:18:03 +0800`
+`更新时间：2025-06-12 21:26:12 +0800`
 
 ## 热门搜索
 
-1. [小鹏G7预售价23.58万](https://www.zhihu.com/search?q=%E5%B0%8F%E9%B9%8FG7%E9%A2%84%E5%94%AE%E4%BB%B723.58%E4%B8%87)
-1. [骑车时速35码撞人致失忆判赔30万](https://www.zhihu.com/search?q=%E9%AA%91%E8%BD%A6%E6%97%B6%E9%80%9F35%E7%A0%81%E6%92%9E%E4%BA%BA%E8%87%B4%E5%A4%B1%E5%BF%86%E5%88%A4%E8%B5%9430%E4%B8%87)
+1. [夸克发布首个高考志愿大模型](https://www.zhihu.com/search?q=%E5%A4%B8%E5%85%8B%E5%8F%91%E5%B8%83%E9%A6%96%E4%B8%AA%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E5%A4%A7%E6%A8%A1%E5%9E%8B)
+1. [《长安的荔枝》职场晋升路线](https://www.zhihu.com/search?q=%E3%80%8A%E9%95%BF%E5%AE%89%E7%9A%84%E8%8D%94%E6%9E%9D%E3%80%8B%E8%81%8C%E5%9C%BA%E6%99%8B%E5%8D%87%E8%B7%AF%E7%BA%BF)
 1. [歌手第五期歌单](https://www.zhihu.com/search?q=%E6%AD%8C%E6%89%8B%E7%AC%AC%E4%BA%94%E6%9C%9F%E6%AD%8C%E5%8D%95)
 1. [体制内着装最忌讳的是什么](https://www.zhihu.com/search?q=%E4%BD%93%E5%88%B6%E5%86%85%E7%9D%80%E8%A3%85%E6%9C%80%E5%BF%8C%E8%AE%B3%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%8E%A8%E8%8D%90)
@@ -33,7 +33,7 @@
 1. [跟面包绝配的酱料](https://www.zhihu.com/search?q=%E8%B7%9F%E9%9D%A2%E5%8C%85%E7%BB%9D%E9%85%8D%E7%9A%84%E9%85%B1%E6%96%99)
 1. [咖啡配什么酒好喝](https://www.zhihu.com/search?q=%E5%92%96%E5%95%A1%E9%85%8D%E4%BB%80%E4%B9%88%E9%85%92%E5%A5%BD%E5%96%9D)
 1. [懒人早餐搭配推荐](https://www.zhihu.com/search?q=%E6%87%92%E4%BA%BA%E6%97%A9%E9%A4%90%E6%90%AD%E9%85%8D%E6%8E%A8%E8%8D%90)
-1. [广东启动防风ⅳ级应急响应](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E5%90%AF%E5%8A%A8%E9%98%B2%E9%A3%8E%E2%85%B3%E7%BA%A7%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94)
+1. [「一秒入夏」的香水推荐](https://www.zhihu.com/search?q=%E3%80%8C%E4%B8%80%E7%A7%92%E5%85%A5%E5%A4%8F%E3%80%8D%E7%9A%84%E9%A6%99%E6%B0%B4%E6%8E%A8%E8%8D%90)
 1. [618 个护囤货指南](https://www.zhihu.com/search?q=618%20%E4%B8%AA%E6%8A%A4%E5%9B%A4%E8%B4%A7%E6%8C%87%E5%8D%97)
 1. [618 成分党囤了什么护肤品](https://www.zhihu.com/search?q=618%20%E6%88%90%E5%88%86%E5%85%9A%E5%9B%A4%E4%BA%86%E4%BB%80%E4%B9%88%E6%8A%A4%E8%82%A4%E5%93%81)
 1. [夏日「不脱妆」底妆推荐](https://www.zhihu.com/search?q=%E5%A4%8F%E6%97%A5%E3%80%8C%E4%B8%8D%E8%84%B1%E5%A6%86%E3%80%8D%E5%BA%95%E5%A6%86%E6%8E%A8%E8%8D%90)
