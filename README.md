@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-07-01 12:29:45 +0800`
+`更新时间：2025-07-01 13:15:34 +0800`
 
 ## 热门搜索
 
-1. [赞比亚中国同胞遇害案8歹徒被击毙](https://www.zhihu.com/search?q=%E8%B5%9E%E6%AF%94%E4%BA%9A%E4%B8%AD%E5%9B%BD%E5%90%8C%E8%83%9E%E9%81%87%E5%AE%B3%E6%A1%888%E6%AD%B9%E5%BE%92%E8%A2%AB%E5%87%BB%E6%AF%99)
+1. [充电宝](https://www.zhihu.com/search?q=%E5%85%85%E7%94%B5%E5%AE%9D)
 1. [高考查分](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86)
 1. [A 股上半年收官](https://www.zhihu.com/search?q=A%20%E8%82%A1%E4%B8%8A%E5%8D%8A%E5%B9%B4%E6%94%B6%E5%AE%98)
 1. [全国高考成绩陆续公布](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E9%99%86%E7%BB%AD%E5%85%AC%E5%B8%83)
