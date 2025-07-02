@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-07-02 11:44:32 +0800`
+`更新时间：2025-07-02 12:20:36 +0800`
 
 ## 热门搜索
 
-1. [大连酒店因演唱会涨价 50 倍](https://www.zhihu.com/search?q=%E5%A4%A7%E8%BF%9E%E9%85%92%E5%BA%97%E5%9B%A0%E6%BC%94%E5%94%B1%E4%BC%9A%E6%B6%A8%E4%BB%B7%2050%20%E5%80%8D)
-1. [怎么回怼同事让你拖地](https://www.zhihu.com/search?q=%E6%80%8E%E4%B9%88%E5%9B%9E%E6%80%BC%E5%90%8C%E4%BA%8B%E8%AE%A9%E4%BD%A0%E6%8B%96%E5%9C%B0)
+1. [建党节](https://www.zhihu.com/search?q=%E5%BB%BA%E5%85%9A%E8%8A%82)
+1. [尊界s800](https://www.zhihu.com/search?q=%E5%B0%8A%E7%95%8Cs800)
 1. [中年夫妻有多少生活和谐的](https://www.zhihu.com/search?q=%E4%B8%AD%E5%B9%B4%E5%A4%AB%E5%A6%BB%E6%9C%89%E5%A4%9A%E5%B0%91%E7%94%9F%E6%B4%BB%E5%92%8C%E8%B0%90%E7%9A%84)
 1. [一分一段表](https://www.zhihu.com/search?q=%E4%B8%80%E5%88%86%E4%B8%80%E6%AE%B5%E8%A1%A8)
 1. [韩雪被指文物前使用强光拍摄](https://www.zhihu.com/search?q=%E9%9F%A9%E9%9B%AA%E8%A2%AB%E6%8C%87%E6%96%87%E7%89%A9%E5%89%8D%E4%BD%BF%E7%94%A8%E5%BC%BA%E5%85%89%E6%8B%8D%E6%91%84)
