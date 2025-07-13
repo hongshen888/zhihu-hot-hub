@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-07-13 08:55:14 +0800`
+`更新时间：2025-07-13 10:56:36 +0800`
 
 ## 热门搜索
 
-1. [苏超最后的结局会如何](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85%E6%9C%80%E5%90%8E%E7%9A%84%E7%BB%93%E5%B1%80%E4%BC%9A%E5%A6%82%E4%BD%95)
-1. [美团外卖向用户发放免费咖啡茶饮兑换券](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%A2%E5%A4%96%E5%8D%96%E5%90%91%E7%94%A8%E6%88%B7%E5%8F%91%E6%94%BE%E5%85%8D%E8%B4%B9%E5%92%96%E5%95%A1%E8%8C%B6%E9%A5%AE%E5%85%91%E6%8D%A2%E5%88%B8)
+1. [GEN击败T1](https://www.zhihu.com/search?q=GEN%E5%87%BB%E8%B4%A5T1)
 1. [金箍棒的设定是不是太弱了](https://www.zhihu.com/search?q=%E9%87%91%E7%AE%8D%E6%A3%92%E7%9A%84%E8%AE%BE%E5%AE%9A%E6%98%AF%E4%B8%8D%E6%98%AF%E5%A4%AA%E5%BC%B1%E4%BA%86)
 1. [我家这样过夏天](https://www.zhihu.com/search?q=%E6%88%91%E5%AE%B6%E8%BF%99%E6%A0%B7%E8%BF%87%E5%A4%8F%E5%A4%A9)
 1. [2025 清凉智选季](https://www.zhihu.com/search?q=2025%20%E6%B8%85%E5%87%89%E6%99%BA%E9%80%89%E5%AD%A3)
@@ -24,7 +23,6 @@
 1. [消暑家电选购清单](https://www.zhihu.com/search?q=%E6%B6%88%E6%9A%91%E5%AE%B6%E7%94%B5%E9%80%89%E8%B4%AD%E6%B8%85%E5%8D%95)
 1. [不靠心静靠硬实力](https://www.zhihu.com/search?q=%E4%B8%8D%E9%9D%A0%E5%BF%83%E9%9D%99%E9%9D%A0%E7%A1%AC%E5%AE%9E%E5%8A%9B)
 1. [全场景消暑指南](https://www.zhihu.com/search?q=%E5%85%A8%E5%9C%BA%E6%99%AF%E6%B6%88%E6%9A%91%E6%8C%87%E5%8D%97)
-1. [GEN击败T1](https://www.zhihu.com/search?q=GEN%E5%87%BB%E8%B4%A5T1)
 1. [空调选购的捷径是「匹配需求」](https://www.zhihu.com/search?q=%E7%A9%BA%E8%B0%83%E9%80%89%E8%B4%AD%E7%9A%84%E6%8D%B7%E5%BE%84%E6%98%AF%E3%80%8C%E5%8C%B9%E9%85%8D%E9%9C%80%E6%B1%82%E3%80%8D)
 1. [懂行人才知道的空调选购要点](https://www.zhihu.com/search?q=%E6%87%82%E8%A1%8C%E4%BA%BA%E6%89%8D%E7%9F%A5%E9%81%93%E7%9A%84%E7%A9%BA%E8%B0%83%E9%80%89%E8%B4%AD%E8%A6%81%E7%82%B9)
 1. [厨房像桑拿房怎么办？](https://www.zhihu.com/search?q=%E5%8E%A8%E6%88%BF%E5%83%8F%E6%A1%91%E6%8B%BF%E6%88%BF%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F)
@@ -33,6 +31,7 @@
 1. [轻松应对夏日爆炒的油烟机](https://www.zhihu.com/search?q=%E8%BD%BB%E6%9D%BE%E5%BA%94%E5%AF%B9%E5%A4%8F%E6%97%A5%E7%88%86%E7%82%92%E7%9A%84%E6%B2%B9%E7%83%9F%E6%9C%BA)
 1. [三伏天是除甲醛的黄金期](https://www.zhihu.com/search?q=%E4%B8%89%E4%BC%8F%E5%A4%A9%E6%98%AF%E9%99%A4%E7%94%B2%E9%86%9B%E7%9A%84%E9%BB%84%E9%87%91%E6%9C%9F)
 1. [夏季除醛的正确打开方式](https://www.zhihu.com/search?q=%E5%A4%8F%E5%AD%A3%E9%99%A4%E9%86%9B%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F)
+1. [正是除甲醛好时机](https://www.zhihu.com/search?q=%E6%AD%A3%E6%98%AF%E9%99%A4%E7%94%B2%E9%86%9B%E5%A5%BD%E6%97%B6%E6%9C%BA)
 1. [为什么空调 26℃ 不够舒爽？](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%A9%BA%E8%B0%83%2026%E2%84%83%20%E4%B8%8D%E5%A4%9F%E8%88%92%E7%88%BD%EF%BC%9F)
 1. [26℃ 体感差异](https://www.zhihu.com/search?q=26%E2%84%83%20%E4%BD%93%E6%84%9F%E5%B7%AE%E5%BC%82)
 1. [夏日高效清洁工具对比](https://www.zhihu.com/search?q=%E5%A4%8F%E6%97%A5%E9%AB%98%E6%95%88%E6%B8%85%E6%B4%81%E5%B7%A5%E5%85%B7%E5%AF%B9%E6%AF%94)
