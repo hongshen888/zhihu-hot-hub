@@ -11,15 +11,14 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-08-18 12:30:25 +0800`
+`更新时间：2025-08-18 13:15:37 +0800`
 
 ## 热门搜索
 
-1. [nike起诉陈冠希90万](https://www.zhihu.com/search?q=nike%E8%B5%B7%E8%AF%89%E9%99%88%E5%86%A0%E5%B8%8C90%E4%B8%87)
-1. [江西最强钉子户已搬离](https://www.zhihu.com/search?q=%E6%B1%9F%E8%A5%BF%E6%9C%80%E5%BC%BA%E9%92%89%E5%AD%90%E6%88%B7%E5%B7%B2%E6%90%AC%E7%A6%BB)
+1. [B站崩了](https://www.zhihu.com/search?q=B%E7%AB%99%E5%B4%A9%E4%BA%86)
+1. [个人单笔5万元以下消费可享贴息](https://www.zhihu.com/search?q=%E4%B8%AA%E4%BA%BA%E5%8D%95%E7%AC%945%E4%B8%87%E5%85%83%E4%BB%A5%E4%B8%8B%E6%B6%88%E8%B4%B9%E5%8F%AF%E4%BA%AB%E8%B4%B4%E6%81%AF)
 1. [半岛电视台记者团队遭以军袭击](https://www.zhihu.com/search?q=%E5%8D%8A%E5%B2%9B%E7%94%B5%E8%A7%86%E5%8F%B0%E8%AE%B0%E8%80%85%E5%9B%A2%E9%98%9F%E9%81%AD%E4%BB%A5%E5%86%9B%E8%A2%AD%E5%87%BB)
 1. [阿迪达斯就新鞋抄袭道歉](https://www.zhihu.com/search?q=%E9%98%BF%E8%BF%AA%E8%BE%BE%E6%96%AF%E5%B0%B1%E6%96%B0%E9%9E%8B%E6%8A%84%E8%A2%AD%E9%81%93%E6%AD%89)
-1. [B站崩了](https://www.zhihu.com/search?q=B%E7%AB%99%E5%B4%A9%E4%BA%86)
 1. [印度洋上空现10个神秘黑暗空洞](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E6%B4%8B%E4%B8%8A%E7%A9%BA%E7%8E%B010%E4%B8%AA%E7%A5%9E%E7%A7%98%E9%BB%91%E6%9A%97%E7%A9%BA%E6%B4%9E)
 1. [韩国星巴克禁止携带大型工作设备](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E6%98%9F%E5%B7%B4%E5%85%8B%E7%A6%81%E6%AD%A2%E6%90%BA%E5%B8%A6%E5%A4%A7%E5%9E%8B%E5%B7%A5%E4%BD%9C%E8%AE%BE%E5%A4%87)
 1. [男童被人带去冒名顶替打疫苗](https://www.zhihu.com/search?q=%E7%94%B7%E7%AB%A5%E8%A2%AB%E4%BA%BA%E5%B8%A6%E5%8E%BB%E5%86%92%E5%90%8D%E9%A1%B6%E6%9B%BF%E6%89%93%E7%96%AB%E8%8B%97)
