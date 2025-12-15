@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-12-15 17:20:25 +0800`
+`更新时间：2025-12-15 18:14:29 +0800`
 
 ## 热门搜索
 
@@ -33,6 +33,7 @@
 1. [网文作家痞子老妖突发心梗离世](https://www.zhihu.com/search?q=%E7%BD%91%E6%96%87%E4%BD%9C%E5%AE%B6%E7%97%9E%E5%AD%90%E8%80%81%E5%A6%96%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%E7%A6%BB%E4%B8%96)
 1. [四川发现 1.9 亿年前恐龙足迹](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E5%8F%91%E7%8E%B0%201.9%20%E4%BA%BF%E5%B9%B4%E5%89%8D%E6%81%90%E9%BE%99%E8%B6%B3%E8%BF%B9)
 1. [英语四级考试](https://www.zhihu.com/search?q=%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E8%80%83%E8%AF%95)
+1. [摩尔线程市值超过百度](https://www.zhihu.com/search?q=%E6%91%A9%E5%B0%94%E7%BA%BF%E7%A8%8B%E5%B8%82%E5%80%BC%E8%B6%85%E8%BF%87%E7%99%BE%E5%BA%A6)
 1. [印度为梅西建巨大雕像](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E4%B8%BA%E6%A2%85%E8%A5%BF%E5%BB%BA%E5%B7%A8%E5%A4%A7%E9%9B%95%E5%83%8F)
 1. [格力小米美的等推动铝代铜国家标准落地](https://www.zhihu.com/search?q=%E6%A0%BC%E5%8A%9B%E5%B0%8F%E7%B1%B3%E7%BE%8E%E7%9A%84%E7%AD%89%E6%8E%A8%E5%8A%A8%E9%93%9D%E4%BB%A3%E9%93%9C%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%E8%90%BD%E5%9C%B0)
 1. [西安牛咖走红：牛、狐狸等轮流上班](https://www.zhihu.com/search?q=%E8%A5%BF%E5%AE%89%E7%89%9B%E5%92%96%E8%B5%B0%E7%BA%A2%EF%BC%9A%E7%89%9B%E3%80%81%E7%8B%90%E7%8B%B8%E7%AD%89%E8%BD%AE%E6%B5%81%E4%B8%8A%E7%8F%AD)
