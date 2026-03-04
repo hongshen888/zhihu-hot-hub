@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-03-04 15:30:29 +0800`
+`更新时间：2026-03-04 16:25:15 +0800`
 
 ## 热门搜索
 
-1. [Vision GT项目参与品牌](https://www.zhihu.com/search?q=Vision%20GT%E9%A1%B9%E7%9B%AE%E5%8F%82%E4%B8%8E%E5%93%81%E7%89%8C)
-1. [亚马逊数据中心遭撞击起火](https://www.zhihu.com/search?q=%E4%BA%9A%E9%A9%AC%E9%80%8A%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E9%81%AD%E6%92%9E%E5%87%BB%E8%B5%B7%E7%81%AB)
+1. [正月十五闹元宵](https://www.zhihu.com/search?q=%E6%AD%A3%E6%9C%88%E5%8D%81%E4%BA%94%E9%97%B9%E5%85%83%E5%AE%B5)
 1. [a股](https://www.zhihu.com/search?q=a%E8%82%A1)
 1. [元宵节](https://www.zhihu.com/search?q=%E5%85%83%E5%AE%B5%E8%8A%82)
 1. [凤凰传奇演唱会](https://www.zhihu.com/search?q=%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E6%BC%94%E5%94%B1%E4%BC%9A)
