@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-03-09 22:42:09 +0800`
+`更新时间：2026-03-09 23:44:46 +0800`
 
 ## 热门搜索
 
-1. [建议给大龄农民工提供培训就业](https://www.zhihu.com/search?q=%E5%BB%BA%E8%AE%AE%E7%BB%99%E5%A4%A7%E9%BE%84%E5%86%9C%E6%B0%91%E5%B7%A5%E6%8F%90%E4%BE%9B%E5%9F%B9%E8%AE%AD%E5%B0%B1%E4%B8%9A)
+1. [70 岁老人高强度刷手机近视 2300 度](https://www.zhihu.com/search?q=70%20%E5%B2%81%E8%80%81%E4%BA%BA%E9%AB%98%E5%BC%BA%E5%BA%A6%E5%88%B7%E6%89%8B%E6%9C%BA%E8%BF%91%E8%A7%86%202300%20%E5%BA%A6)
 1. [湖人vs掘金](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E6%8E%98%E9%87%91)
 1. [快船vs灰熊](https://www.zhihu.com/search?q=%E5%BF%AB%E8%88%B9vs%E7%81%B0%E7%86%8A)
 1. [乐队打架什么乐器伤害最高](https://www.zhihu.com/search?q=%E4%B9%90%E9%98%9F%E6%89%93%E6%9E%B6%E4%BB%80%E4%B9%88%E4%B9%90%E5%99%A8%E4%BC%A4%E5%AE%B3%E6%9C%80%E9%AB%98)
