@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-03-18 19:36:29 +0800`
+`更新时间：2026-03-18 20:40:49 +0800`
 
 ## 热门搜索
 
-1. [湖人vs火箭](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E7%81%AB%E7%AE%AD)
-1. [迪丽热巴白日提灯](https://www.zhihu.com/search?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%99%BD%E6%97%A5%E6%8F%90%E7%81%AF)
+1. [黄天鹅回应产品情况](https://www.zhihu.com/search?q=%E9%BB%84%E5%A4%A9%E9%B9%85%E5%9B%9E%E5%BA%94%E4%BA%A7%E5%93%81%E6%83%85%E5%86%B5)
+1. [女子人脸被盗制成AI短剧](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E4%BA%BA%E8%84%B8%E8%A2%AB%E7%9B%97%E5%88%B6%E6%88%90AI%E7%9F%AD%E5%89%A7)
 1. [太阳vs森林狼](https://www.zhihu.com/search?q=%E5%A4%AA%E9%98%B3vs%E6%A3%AE%E6%9E%97%E7%8B%BC)
 1. [胖东来](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5)
 1. [性格内向的人看起来更显小](https://www.zhihu.com/search?q=%E6%80%A7%E6%A0%BC%E5%86%85%E5%90%91%E7%9A%84%E4%BA%BA%E7%9C%8B%E8%B5%B7%E6%9D%A5%E6%9B%B4%E6%98%BE%E5%B0%8F)
