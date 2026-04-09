@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-04-09 19:43:07 +0800`
+`更新时间：2026-04-09 20:54:25 +0800`
 
 ## 热门搜索
 
-1. [你会因为生态价值包容石楠花吗](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BC%9A%E5%9B%A0%E4%B8%BA%E7%94%9F%E6%80%81%E4%BB%B7%E5%80%BC%E5%8C%85%E5%AE%B9%E7%9F%B3%E6%A5%A0%E8%8A%B1%E5%90%97)
-1. [今麦郎「1桶半」是商标](https://www.zhihu.com/search?q=%E4%BB%8A%E9%BA%A6%E9%83%8E%E3%80%8C1%E6%A1%B6%E5%8D%8A%E3%80%8D%E6%98%AF%E5%95%86%E6%A0%87)
+1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
+1. [沪深两市成交额突破5000亿元](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B45000%E4%BA%BF%E5%85%83)
 1. [TES战胜WE](https://www.zhihu.com/search?q=TES%E6%88%98%E8%83%9CWE)
 1. [3月辟谣榜](https://www.zhihu.com/search?q=3%E6%9C%88%E8%BE%9F%E8%B0%A3%E6%A6%9C)
 1. [武汉暴雨](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E6%9A%B4%E9%9B%A8)
