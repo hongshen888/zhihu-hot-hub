@@ -11,11 +11,29 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-04-14 12:35:33 +0800`
+`更新时间：2026-04-14 14:24:12 +0800`
 
 ## 热门搜索
 
-暂无数据
+1. [导师给你的最后忠告是什么](https://www.zhihu.com/search?q=%E5%AF%BC%E5%B8%88%E7%BB%99%E4%BD%A0%E7%9A%84%E6%9C%80%E5%90%8E%E5%BF%A0%E5%91%8A%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [一个人能做出什么开源项目](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E4%BA%BA%E8%83%BD%E5%81%9A%E5%87%BA%E4%BB%80%E4%B9%88%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
+1. [《飞驰人生 3》电影票房破 30 亿](https://www.zhihu.com/search?q=%E3%80%8A%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F%203%E3%80%8B%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E7%A0%B4%2030%20%E4%BA%BF)
+1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
+1. [AI面试官](https://www.zhihu.com/search?q=AI%E9%9D%A2%E8%AF%95%E5%AE%98)
+1. [AI简历诊断](https://www.zhihu.com/search?q=AI%E7%AE%80%E5%8E%86%E8%AF%8A%E6%96%AD)
+1. [AI简历分析](https://www.zhihu.com/search?q=AI%E7%AE%80%E5%8E%86%E5%88%86%E6%9E%90)
+1. [简历诊断](https://www.zhihu.com/search?q=%E7%AE%80%E5%8E%86%E8%AF%8A%E6%96%AD)
+1. [AI模拟面试官](https://www.zhihu.com/search?q=AI%E6%A8%A1%E6%8B%9F%E9%9D%A2%E8%AF%95%E5%AE%98)
+1. [AI模拟面试](https://www.zhihu.com/search?q=AI%E6%A8%A1%E6%8B%9F%E9%9D%A2%E8%AF%95)
+1. [求职数据通](https://www.zhihu.com/search?q=%E6%B1%82%E8%81%8C%E6%95%B0%E6%8D%AE%E9%80%9A)
+1. [offer 季](https://www.zhihu.com/search?q=offer%20%E5%AD%A3)
+1. [AI 短剧 100 元买断一张脸](https://www.zhihu.com/search?q=AI%20%E7%9F%AD%E5%89%A7%20100%20%E5%85%83%E4%B9%B0%E6%96%AD%E4%B8%80%E5%BC%A0%E8%84%B8)
+1. [乘风 2026 浪姐 7 一公舞台](https://www.zhihu.com/search?q=%E4%B9%98%E9%A3%8E%202026%20%E6%B5%AA%E5%A7%90%207%20%E4%B8%80%E5%85%AC%E8%88%9E%E5%8F%B0)
+1. [浪姐 7 一公舞台](https://www.zhihu.com/search?q=%E6%B5%AA%E5%A7%90%207%20%E4%B8%80%E5%85%AC%E8%88%9E%E5%8F%B0)
+1. [浪姐一公多组表演被质疑假唱](https://www.zhihu.com/search?q=%E6%B5%AA%E5%A7%90%E4%B8%80%E5%85%AC%E5%A4%9A%E7%BB%84%E8%A1%A8%E6%BC%94%E8%A2%AB%E8%B4%A8%E7%96%91%E5%81%87%E5%94%B1)
+1. [全球最大冰山A23a没了](https://www.zhihu.com/search?q=%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E5%86%B0%E5%B1%B1A23a%E6%B2%A1%E4%BA%86)
+1. [美伊谈判](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4)
+1. [中国科学家揭示左撇子真相](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E6%8F%AD%E7%A4%BA%E5%B7%A6%E6%92%87%E5%AD%90%E7%9C%9F%E7%9B%B8)
 
 ## 热门话题
 
