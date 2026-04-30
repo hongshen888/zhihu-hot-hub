@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-04-30 07:42:13 +0800`
+`更新时间：2026-04-30 09:46:00 +0800`
 
 ## 热门搜索
 
@@ -35,8 +35,8 @@
 1. [胖东来18 元 15 瓶矿泉水遭排队抢购](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A518%20%E5%85%83%2015%20%E7%93%B6%E7%9F%BF%E6%B3%89%E6%B0%B4%E9%81%AD%E6%8E%92%E9%98%9F%E6%8A%A2%E8%B4%AD)
 1. [鲁超济南队夏雨荷啦啦队被嘲](https://www.zhihu.com/search?q=%E9%B2%81%E8%B6%85%E6%B5%8E%E5%8D%97%E9%98%9F%E5%A4%8F%E9%9B%A8%E8%8D%B7%E5%95%A6%E5%95%A6%E9%98%9F%E8%A2%AB%E5%98%B2)
 1. [南方人为什么执着于通风](https://www.zhihu.com/search?q=%E5%8D%97%E6%96%B9%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%A7%E7%9D%80%E4%BA%8E%E9%80%9A%E9%A3%8E)
-1. [大头瓶盖瓶装水设计缺陷](https://www.zhihu.com/search?q=%E5%A4%A7%E5%A4%B4%E7%93%B6%E7%9B%96%E7%93%B6%E8%A3%85%E6%B0%B4%E8%AE%BE%E8%AE%A1%E7%BC%BA%E9%99%B7)
 1. [全球黄金主力买家抛售超22吨黄金](https://www.zhihu.com/search?q=%E5%85%A8%E7%90%83%E9%BB%84%E9%87%91%E4%B8%BB%E5%8A%9B%E4%B9%B0%E5%AE%B6%E6%8A%9B%E5%94%AE%E8%B6%8522%E5%90%A8%E9%BB%84%E9%87%91)
+1. [南方多省电价为何突然飙升](https://www.zhihu.com/search?q=%E5%8D%97%E6%96%B9%E5%A4%9A%E7%9C%81%E7%94%B5%E4%BB%B7%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E9%A3%99%E5%8D%87)
 
 ## 热门话题
 
