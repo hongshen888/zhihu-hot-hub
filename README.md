@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-05-01 07:40:24 +0800`
+`更新时间：2026-05-01 09:49:00 +0800`
 
 ## 热门搜索
 
-1. [国际不打小孩日](https://www.zhihu.com/search?q=%E5%9B%BD%E9%99%85%E4%B8%8D%E6%89%93%E5%B0%8F%E5%AD%A9%E6%97%A5)
+1. [为什么很多人主体性特别强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%88%E5%A4%9A%E4%BA%BA%E4%B8%BB%E4%BD%93%E6%80%A7%E7%89%B9%E5%88%AB%E5%BC%BA)
 1. [掘金vs森林狼](https://www.zhihu.com/search?q=%E6%8E%98%E9%87%91vs%E6%A3%AE%E6%9E%97%E7%8B%BC)
 1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [NIP对战JDG](https://www.zhihu.com/search?q=NIP%E5%AF%B9%E6%88%98JDG)
