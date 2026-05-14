@@ -11,12 +11,10 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-05-14 19:06:51 +0800`
+`更新时间：2026-05-14 21:24:16 +0800`
 
 ## 热门搜索
 
-1. [ebay拒绝gamestop的收购提议](https://www.zhihu.com/search?q=ebay%E6%8B%92%E7%BB%9Dgamestop%E7%9A%84%E6%94%B6%E8%B4%AD%E6%8F%90%E8%AE%AE)
-1. [加沙4.3万人因以军致残](https://www.zhihu.com/search?q=%E5%8A%A0%E6%B2%994.3%E4%B8%87%E4%BA%BA%E5%9B%A0%E4%BB%A5%E5%86%9B%E8%87%B4%E6%AE%8B)
 1. [王鸥 何九华](https://www.zhihu.com/search?q=%E7%8E%8B%E9%B8%A5%20%E4%BD%95%E4%B9%9D%E5%8D%8E)
 1. [妻子的浪漫旅行](https://www.zhihu.com/search?q=%E5%A6%BB%E5%AD%90%E7%9A%84%E6%B5%AA%E6%BC%AB%E6%97%85%E8%A1%8C)
 1. [电视剧《低智商犯罪》热播](https://www.zhihu.com/search?q=%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%BD%8E%E6%99%BA%E5%95%86%E7%8A%AF%E7%BD%AA%E3%80%8B%E7%83%AD%E6%92%AD)
@@ -35,6 +33,7 @@
 1. [湖南一中学发退步快学生证明](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E4%B8%80%E4%B8%AD%E5%AD%A6%E5%8F%91%E9%80%80%E6%AD%A5%E5%BF%AB%E5%AD%A6%E7%94%9F%E8%AF%81%E6%98%8E)
 1. [摩洛哥新娘刷屏全网](https://www.zhihu.com/search?q=%E6%91%A9%E6%B4%9B%E5%93%A5%E6%96%B0%E5%A8%98%E5%88%B7%E5%B1%8F%E5%85%A8%E7%BD%91)
 1. [iOS26.5 正式版发布](https://www.zhihu.com/search?q=iOS26.5%20%E6%AD%A3%E5%BC%8F%E7%89%88%E5%8F%91%E5%B8%83)
+1. [湖人 110:115 雷霆](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%20110%3A115%20%E9%9B%B7%E9%9C%86)
 
 ## 热门话题
 
