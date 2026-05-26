@@ -11,37 +11,36 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-05-26 16:24:51 +0800`
+`更新时间：2026-05-26 22:32:46 +0800`
 
 ## 热门搜索
 
+1. [T1战胜DK](https://www.zhihu.com/search?q=T1%E6%88%98%E8%83%9CDK)
 1. [今年首个红色山洪灾害气象预警发布](https://www.zhihu.com/search?q=%E4%BB%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E7%BA%A2%E8%89%B2%E5%B1%B1%E6%B4%AA%E7%81%BE%E5%AE%B3%E6%B0%94%E8%B1%A1%E9%A2%84%E8%AD%A6%E5%8F%91%E5%B8%83)
+1. [雨霖铃](https://www.zhihu.com/search?q=%E9%9B%A8%E9%9C%96%E9%93%83)
+1. [雷军强烈建议大家现在就换手机](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%E5%BC%BA%E7%83%88%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E7%8E%B0%E5%9C%A8%E5%B0%B1%E6%8D%A2%E6%89%8B%E6%9C%BA)
 1. [《错嫁有喜》原著](https://www.zhihu.com/search?q=%E3%80%8A%E9%94%99%E5%AB%81%E6%9C%89%E5%96%9C%E3%80%8B%E5%8E%9F%E8%91%97)
 1. [爆剧《错嫁有喜》原著在这里](https://www.zhihu.com/search?q=%E7%88%86%E5%89%A7%E3%80%8A%E9%94%99%E5%AB%81%E6%9C%89%E5%96%9C%E3%80%8B%E5%8E%9F%E8%91%97%E5%9C%A8%E8%BF%99%E9%87%8C)
-1. [山西沁源一煤矿发生事故](https://www.zhihu.com/search?q=%E5%B1%B1%E8%A5%BF%E6%B2%81%E6%BA%90%E4%B8%80%E7%85%A4%E7%9F%BF%E5%8F%91%E7%94%9F%E4%BA%8B%E6%95%85)
+1. [给阿嬷的情书拿到第一个电影奖](https://www.zhihu.com/search?q=%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%E6%8B%BF%E5%88%B0%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%94%B5%E5%BD%B1%E5%A5%96)
 1. [耿同学：举报不为赚钱 已与MCN解约](https://www.zhihu.com/search?q=%E8%80%BF%E5%90%8C%E5%AD%A6%EF%BC%9A%E4%B8%BE%E6%8A%A5%E4%B8%8D%E4%B8%BA%E8%B5%9A%E9%92%B1%20%E5%B7%B2%E4%B8%8EMCN%E8%A7%A3%E7%BA%A6)
 1. [2026 年电影票房突破 150 亿](https://www.zhihu.com/search?q=2026%20%E5%B9%B4%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E7%AA%81%E7%A0%B4%20150%20%E4%BA%BF)
 1. [王鹤棣 沈月](https://www.zhihu.com/search?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E6%B2%88%E6%9C%88)
-1. [山西煤矿事故已致90人死亡](https://www.zhihu.com/search?q=%E5%B1%B1%E8%A5%BF%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B490%E4%BA%BA%E6%AD%BB%E4%BA%A1)
 1. [为什么煤矿工人仍在人力下井采矿](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%85%A4%E7%9F%BF%E5%B7%A5%E4%BA%BA%E4%BB%8D%E5%9C%A8%E4%BA%BA%E5%8A%9B%E4%B8%8B%E4%BA%95%E9%87%87%E7%9F%BF)
-1. [公园用墓碑铺路网友吵翻](https://www.zhihu.com/search?q=%E5%85%AC%E5%9B%AD%E7%94%A8%E5%A2%93%E7%A2%91%E9%93%BA%E8%B7%AF%E7%BD%91%E5%8F%8B%E5%90%B5%E7%BF%BB)
 1. [曝庾澄庆被换了6首歌](https://www.zhihu.com/search?q=%E6%9B%9D%E5%BA%BE%E6%BE%84%E5%BA%86%E8%A2%AB%E6%8D%A2%E4%BA%866%E9%A6%96%E6%AD%8C)
 1. [DeepSeek永久降价](https://www.zhihu.com/search?q=DeepSeek%E6%B0%B8%E4%B9%85%E9%99%8D%E4%BB%B7)
-1. [山西留神峪煤矿瓦斯爆炸事故](https://www.zhihu.com/search?q=%E5%B1%B1%E8%A5%BF%E7%95%99%E7%A5%9E%E5%B3%AA%E7%85%A4%E7%9F%BF%E7%93%A6%E6%96%AF%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85)
-1. [留神峪煤矿事故已致82人遇难2人失联](https://www.zhihu.com/search?q=%E7%95%99%E7%A5%9E%E5%B3%AA%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B482%E4%BA%BA%E9%81%87%E9%9A%BE2%E4%BA%BA%E5%A4%B1%E8%81%94)
 1. [美方称美伊已基本谈成协议](https://www.zhihu.com/search?q=%E7%BE%8E%E6%96%B9%E7%A7%B0%E7%BE%8E%E4%BC%8A%E5%B7%B2%E5%9F%BA%E6%9C%AC%E8%B0%88%E6%88%90%E5%8D%8F%E8%AE%AE)
-1. [富途证券期权疑现「抢跑交易」](https://www.zhihu.com/search?q=%E5%AF%8C%E9%80%94%E8%AF%81%E5%88%B8%E6%9C%9F%E6%9D%83%E7%96%91%E7%8E%B0%E3%80%8C%E6%8A%A2%E8%B7%91%E4%BA%A4%E6%98%93%E3%80%8D)
-1. [重庆永川特大暴雨多人失联](https://www.zhihu.com/search?q=%E9%87%8D%E5%BA%86%E6%B0%B8%E5%B7%9D%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%E5%A4%9A%E4%BA%BA%E5%A4%B1%E8%81%94)
 1. [严子怡打破标枪亚洲纪录](https://www.zhihu.com/search?q=%E4%B8%A5%E5%AD%90%E6%80%A1%E6%89%93%E7%A0%B4%E6%A0%87%E6%9E%AA%E4%BA%9A%E6%B4%B2%E7%BA%AA%E5%BD%95)
 1. [衡阳火灾致5死1伤](https://www.zhihu.com/search?q=%E8%A1%A1%E9%98%B3%E7%81%AB%E7%81%BE%E8%87%B45%E6%AD%BB1%E4%BC%A4)
 1. [杨梅收购商跑光价格从20元跌到8毛](https://www.zhihu.com/search?q=%E6%9D%A8%E6%A2%85%E6%94%B6%E8%B4%AD%E5%95%86%E8%B7%91%E5%85%89%E4%BB%B7%E6%A0%BC%E4%BB%8E20%E5%85%83%E8%B7%8C%E5%88%B08%E6%AF%9B)
-1. [不少网友称吃完虾后不能立即运动](https://www.zhihu.com/search?q=%E4%B8%8D%E5%B0%91%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%90%83%E5%AE%8C%E8%99%BE%E5%90%8E%E4%B8%8D%E8%83%BD%E7%AB%8B%E5%8D%B3%E8%BF%90%E5%8A%A8)
+1. [给阿嬷的情书票房破10亿](https://www.zhihu.com/search?q=%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%E7%A5%A8%E6%88%BF%E7%A0%B410%E4%BA%BF)
 1. [盒马 60 元一斤网红葡萄卖断货](https://www.zhihu.com/search?q=%E7%9B%92%E9%A9%AC%2060%20%E5%85%83%E4%B8%80%E6%96%A4%E7%BD%91%E7%BA%A2%E8%91%A1%E8%90%84%E5%8D%96%E6%96%AD%E8%B4%A7)
 1. [熊羽诺任湖北理工学院副教授](https://www.zhihu.com/search?q=%E7%86%8A%E7%BE%BD%E8%AF%BA%E4%BB%BB%E6%B9%96%E5%8C%97%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2%E5%89%AF%E6%95%99%E6%8E%88)
 1. [小米通报空调安装「抽真空」造假](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E9%80%9A%E6%8A%A5%E7%A9%BA%E8%B0%83%E5%AE%89%E8%A3%85%E3%80%8C%E6%8A%BD%E7%9C%9F%E7%A9%BA%E3%80%8D%E9%80%A0%E5%81%87)
-1. [电影《给阿嬤的情书》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E7%BB%99%E9%98%BF%E5%AC%A4%E7%9A%84%E6%83%85%E4%B9%A6%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [男子钓鱼捞起一溺水婴儿](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E9%92%93%E9%B1%BC%E6%8D%9E%E8%B5%B7%E4%B8%80%E6%BA%BA%E6%B0%B4%E5%A9%B4%E5%84%BF)
+1. [泡菜或可助人体排出微塑料](https://www.zhihu.com/search?q=%E6%B3%A1%E8%8F%9C%E6%88%96%E5%8F%AF%E5%8A%A9%E4%BA%BA%E4%BD%93%E6%8E%92%E5%87%BA%E5%BE%AE%E5%A1%91%E6%96%99)
 1. [华为发表半导体领域新定律](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E5%8F%91%E8%A1%A8%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%A2%86%E5%9F%9F%E6%96%B0%E5%AE%9A%E5%BE%8B)
+1. [于正称《给阿嬷的情书》为超级商业片](https://www.zhihu.com/search?q=%E4%BA%8E%E6%AD%A3%E7%A7%B0%E3%80%8A%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%E3%80%8B%E4%B8%BA%E8%B6%85%E7%BA%A7%E5%95%86%E4%B8%9A%E7%89%87)
+1. [711 创始人铃木敏文逝世](https://www.zhihu.com/search?q=711%20%E5%88%9B%E5%A7%8B%E4%BA%BA%E9%93%83%E6%9C%A8%E6%95%8F%E6%96%87%E9%80%9D%E4%B8%96)
 
 ## 热门话题
 
