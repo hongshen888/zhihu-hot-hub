@@ -11,11 +11,10 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-05-30 11:33:18 +0800`
+`更新时间：2026-05-30 14:39:09 +0800`
 
 ## 热门搜索
 
-1. [马刺VS雷霆](https://www.zhihu.com/search?q=%E9%A9%AC%E5%88%BAVS%E9%9B%B7%E9%9C%86)
 1. [沪深两市成交额突破2万亿元](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B42%E4%B8%87%E4%BA%BF%E5%85%83)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
@@ -36,12 +35,13 @@
 1. [大润发创始人尹衍梁去世](https://www.zhihu.com/search?q=%E5%A4%A7%E6%B6%A6%E5%8F%91%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%B0%B9%E8%A1%8D%E6%A2%81%E5%8E%BB%E4%B8%96)
 1. [印度被烤糊了](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E8%A2%AB%E7%83%A4%E7%B3%8A%E4%BA%86)
 1. [王鹤棣不舒服文学已升级](https://www.zhihu.com/search?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E4%B8%8D%E8%88%92%E6%9C%8D%E6%96%87%E5%AD%A6%E5%B7%B2%E5%8D%87%E7%BA%A7)
-1. [小米mimo-V2.5系列模型降价](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3mimo-V2.5%E7%B3%BB%E5%88%97%E6%A8%A1%E5%9E%8B%E9%99%8D%E4%BB%B7)
-1. [多地取消执行40多年的固定分时电价](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E5%8F%96%E6%B6%88%E6%89%A7%E8%A1%8C40%E5%A4%9A%E5%B9%B4%E7%9A%84%E5%9B%BA%E5%AE%9A%E5%88%86%E6%97%B6%E7%94%B5%E4%BB%B7)
 1. [谢苗《火遮眼》定档6月11日](https://www.zhihu.com/search?q=%E8%B0%A2%E8%8B%97%E3%80%8A%E7%81%AB%E9%81%AE%E7%9C%BC%E3%80%8B%E5%AE%9A%E6%A1%A36%E6%9C%8811%E6%97%A5)
 1. [于正反驳余华](https://www.zhihu.com/search?q=%E4%BA%8E%E6%AD%A3%E5%8F%8D%E9%A9%B3%E4%BD%99%E5%8D%8E)
+1. [广东2026高三开学延至9月](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C2026%E9%AB%98%E4%B8%89%E5%BC%80%E5%AD%A6%E5%BB%B6%E8%87%B39%E6%9C%88)
 1. [美国公司用离体「缸中之脑」测试药物](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%8F%B8%E7%94%A8%E7%A6%BB%E4%BD%93%E3%80%8C%E7%BC%B8%E4%B8%AD%E4%B9%8B%E8%84%91%E3%80%8D%E6%B5%8B%E8%AF%95%E8%8D%AF%E7%89%A9)
 1. [户口以后没那么重要了](https://www.zhihu.com/search?q=%E6%88%B7%E5%8F%A3%E4%BB%A5%E5%90%8E%E6%B2%A1%E9%82%A3%E4%B9%88%E9%87%8D%E8%A6%81%E4%BA%86)
+1. [美国公布月球基地建设路线图](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%B8%83%E6%9C%88%E7%90%83%E5%9F%BA%E5%9C%B0%E5%BB%BA%E8%AE%BE%E8%B7%AF%E7%BA%BF%E5%9B%BE)
+1. [小米一季度净利润61亿元](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E4%B8%80%E5%AD%A3%E5%BA%A6%E5%87%80%E5%88%A9%E6%B6%A661%E4%BA%BF%E5%85%83)
 
 ## 热门话题
 
