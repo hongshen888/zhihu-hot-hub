@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-06-20 14:52:22 +0800`
+`更新时间：2026-06-20 17:55:52 +0800`
 
 ## 热门搜索
 
@@ -35,9 +35,8 @@
 1. [5万欧身价零封5亿欧豪门](https://www.zhihu.com/search?q=5%E4%B8%87%E6%AC%A7%E8%BA%AB%E4%BB%B7%E9%9B%B6%E5%B0%815%E4%BA%BF%E6%AC%A7%E8%B1%AA%E9%97%A8)
 1. [百花奖入围名单](https://www.zhihu.com/search?q=%E7%99%BE%E8%8A%B1%E5%A5%96%E5%85%A5%E5%9B%B4%E5%90%8D%E5%8D%95)
 1. [河南动物园年薪十万招人扮演黑熊](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E5%8A%A8%E7%89%A9%E5%9B%AD%E5%B9%B4%E8%96%AA%E5%8D%81%E4%B8%87%E6%8B%9B%E4%BA%BA%E6%89%AE%E6%BC%94%E9%BB%91%E7%86%8A)
-1. [挪威 vs 伊拉克](https://www.zhihu.com/search?q=%E6%8C%AA%E5%A8%81%20vs%20%E4%BC%8A%E6%8B%89%E5%85%8B)
-1. [挪威4-1伊拉克](https://www.zhihu.com/search?q=%E6%8C%AA%E5%A8%814-1%E4%BC%8A%E6%8B%89%E5%85%8B)
 1. [易立竞采访向佐](https://www.zhihu.com/search?q=%E6%98%93%E7%AB%8B%E7%AB%9E%E9%87%87%E8%AE%BF%E5%90%91%E4%BD%90)
+1. [於水谈 AI：不完美成就艺术](https://www.zhihu.com/search?q=%E6%96%BC%E6%B0%B4%E8%B0%88%20AI%EF%BC%9A%E4%B8%8D%E5%AE%8C%E7%BE%8E%E6%88%90%E5%B0%B1%E8%89%BA%E6%9C%AF)
 
 ## 热门话题
 
