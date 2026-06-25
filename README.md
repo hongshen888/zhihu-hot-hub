@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-06-25 10:01:00 +0800`
+`更新时间：2026-06-25 14:37:31 +0800`
 
 ## 热门搜索
 
-1. [河南高考出分](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
-1. [上海高考查分](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86)
+1. [合肥通报网红卤菜店生肉遭狗啃](https://www.zhihu.com/search?q=%E5%90%88%E8%82%A5%E9%80%9A%E6%8A%A5%E7%BD%91%E7%BA%A2%E5%8D%A4%E8%8F%9C%E5%BA%97%E7%94%9F%E8%82%89%E9%81%AD%E7%8B%97%E5%95%83)
+1. [英格兰无缘提前出线](https://www.zhihu.com/search?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%E6%97%A0%E7%BC%98%E6%8F%90%E5%89%8D%E5%87%BA%E7%BA%BF)
 1. [广东高考分数线](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF)
 1. [高考分数线](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF)
 1. [福建高考查分](https://www.zhihu.com/search?q=%E7%A6%8F%E5%BB%BA%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86)
@@ -36,9 +36,8 @@
 1. [梅西帽子戏法](https://www.zhihu.com/search?q=%E6%A2%85%E8%A5%BF%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95)
 1. [日韩股市全线反弹](https://www.zhihu.com/search?q=%E6%97%A5%E9%9F%A9%E8%82%A1%E5%B8%82%E5%85%A8%E7%BA%BF%E5%8F%8D%E5%BC%B9)
 1. [阿根廷3-0阿尔及利亚](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B73-0%E9%98%BF%E5%B0%94%E5%8F%8A%E5%88%A9%E4%BA%9A)
+1. [易立竞采访向佐](https://www.zhihu.com/search?q=%E6%98%93%E7%AB%8B%E7%AB%9E%E9%87%87%E8%AE%BF%E5%90%91%E4%BD%90)
 1. [C罗首秀状态不佳全场0射正](https://www.zhihu.com/search?q=C%E7%BD%97%E9%A6%96%E7%A7%80%E7%8A%B6%E6%80%81%E4%B8%8D%E4%BD%B3%E5%85%A8%E5%9C%BA0%E5%B0%84%E6%AD%A3)
-1. [伊朗美国卡塔尔三方会议](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E7%BE%8E%E5%9B%BD%E5%8D%A1%E5%A1%94%E5%B0%94%E4%B8%89%E6%96%B9%E4%BC%9A%E8%AE%AE)
-1. [刘强东说将来根本不需要快递员](https://www.zhihu.com/search?q=%E5%88%98%E5%BC%BA%E4%B8%9C%E8%AF%B4%E5%B0%86%E6%9D%A5%E6%A0%B9%E6%9C%AC%E4%B8%8D%E9%9C%80%E8%A6%81%E5%BF%AB%E9%80%92%E5%91%98)
 
 ## 热门话题
 
