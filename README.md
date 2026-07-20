@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-07-20 07:44:18 +0800`
+`更新时间：2026-07-20 09:24:31 +0800`
 
 ## 热门搜索
 
-1. [怡颗莓被指永久性化学物含量超标](https://www.zhihu.com/search?q=%E6%80%A1%E9%A2%97%E8%8E%93%E8%A2%AB%E6%8C%87%E6%B0%B8%E4%B9%85%E6%80%A7%E5%8C%96%E5%AD%A6%E7%89%A9%E5%90%AB%E9%87%8F%E8%B6%85%E6%A0%87)
-1. [梦奇迪迦奥特曼联动皮肤免费换](https://www.zhihu.com/search?q=%E6%A2%A6%E5%A5%87%E8%BF%AA%E8%BF%A6%E5%A5%A5%E7%89%B9%E6%9B%BC%E8%81%94%E5%8A%A8%E7%9A%AE%E8%82%A4%E5%85%8D%E8%B4%B9%E6%8D%A2)
+1. [名创优品致歉](https://www.zhihu.com/search?q=%E5%90%8D%E5%88%9B%E4%BC%98%E5%93%81%E8%87%B4%E6%AD%89)
 1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
 1. [王者荣耀](https://www.zhihu.com/search?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80)
 1. [上证指数](https://www.zhihu.com/search?q=%E4%B8%8A%E8%AF%81%E6%8C%87%E6%95%B0)
