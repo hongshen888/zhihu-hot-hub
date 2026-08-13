@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-08-13 16:59:35 +0800`
+`更新时间：2026-08-13 18:02:03 +0800`
 
 ## 热门搜索
 
@@ -40,7 +40,6 @@
 1. [卫诗雅百花奖最佳女主角](https://www.zhihu.com/search?q=%E5%8D%AB%E8%AF%97%E9%9B%85%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92)
 1. [哥伦比亚 7.5 级地震](https://www.zhihu.com/search?q=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%207.5%20%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [张旭骂贵州言论引争议](https://www.zhihu.com/search?q=%E5%BC%A0%E6%97%AD%E9%AA%82%E8%B4%B5%E5%B7%9E%E8%A8%80%E8%AE%BA%E5%BC%95%E4%BA%89%E8%AE%AE)
-1. [大鹏百花奖最佳导演奖](https://www.zhihu.com/search?q=%E5%A4%A7%E9%B9%8F%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%AF%BC%E6%BC%94%E5%A5%96)
 
 ## 热门话题
 
