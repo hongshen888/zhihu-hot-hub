@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-09-21 07:50:33 +0800`
+`更新时间：2026-09-21 09:59:47 +0800`
 
 ## 热门搜索
 
-1. [亚运会](https://www.zhihu.com/search?q=%E4%BA%9A%E8%BF%90%E4%BC%9A)
-1. [法考成绩](https://www.zhihu.com/search?q=%E6%B3%95%E8%80%83%E6%88%90%E7%BB%A9)
+1. [印尼获意大利赠送退役航母](https://www.zhihu.com/search?q=%E5%8D%B0%E5%B0%BC%E8%8E%B7%E6%84%8F%E5%A4%A7%E5%88%A9%E8%B5%A0%E9%80%81%E9%80%80%E5%BD%B9%E8%88%AA%E6%AF%8D)
+1. [《我的朋友很少》作者平坂读宣布退休](https://www.zhihu.com/search?q=%E3%80%8A%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%BE%88%E5%B0%91%E3%80%8B%E4%BD%9C%E8%80%85%E5%B9%B3%E5%9D%82%E8%AF%BB%E5%AE%A3%E5%B8%83%E9%80%80%E4%BC%91)
 1. [调休](https://www.zhihu.com/search?q=%E8%B0%83%E4%BC%91)
 1. [热刺VS阿斯顿维拉](https://www.zhihu.com/search?q=%E7%83%AD%E5%88%BAVS%E9%98%BF%E6%96%AF%E9%A1%BF%E7%BB%B4%E6%8B%89)
 1. [王曼昱 1-3 不敌朱雨玲](https://www.zhihu.com/search?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%201-3%20%E4%B8%8D%E6%95%8C%E6%9C%B1%E9%9B%A8%E7%8E%B2)
@@ -24,7 +24,6 @@
 1. [苏超](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85)
 1. [巴萨联赛7连胜](https://www.zhihu.com/search?q=%E5%B7%B4%E8%90%A8%E8%81%94%E8%B5%9B7%E8%BF%9E%E8%83%9C)
 1. [女孩正颌手术被做反变成鞋拔子脸](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%A9%E6%AD%A3%E9%A2%8C%E6%89%8B%E6%9C%AF%E8%A2%AB%E5%81%9A%E5%8F%8D%E5%8F%98%E6%88%90%E9%9E%8B%E6%8B%94%E5%AD%90%E8%84%B8)
-1. [字节调整豆包飞书火山架构](https://www.zhihu.com/search?q=%E5%AD%97%E8%8A%82%E8%B0%83%E6%95%B4%E8%B1%86%E5%8C%85%E9%A3%9E%E4%B9%A6%E7%81%AB%E5%B1%B1%E6%9E%B6%E6%9E%84)
 1. [兰香如故](https://www.zhihu.com/search?q=%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85)
 1. [2026名古屋亚运会](https://www.zhihu.com/search?q=2026%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A)
 1. [苹果氟橡胶表带疑因 PFAS 超标下架](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E6%B0%9F%E6%A9%A1%E8%83%B6%E8%A1%A8%E5%B8%A6%E7%96%91%E5%9B%A0%20PFAS%20%E8%B6%85%E6%A0%87%E4%B8%8B%E6%9E%B6)
@@ -36,8 +35,8 @@
 1. [问界撤出鸿蒙智行门店](https://www.zhihu.com/search?q=%E9%97%AE%E7%95%8C%E6%92%A4%E5%87%BA%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E9%97%A8%E5%BA%97)
 1. [「断网童年」是什么体验](https://www.zhihu.com/search?q=%E3%80%8C%E6%96%AD%E7%BD%91%E7%AB%A5%E5%B9%B4%E3%80%8D%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C)
 1. [湖南航空一航班旅客充电宝起火](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E8%88%AA%E7%A9%BA%E4%B8%80%E8%88%AA%E7%8F%AD%E6%97%85%E5%AE%A2%E5%85%85%E7%94%B5%E5%AE%9D%E8%B5%B7%E7%81%AB)
-1. [李小璐赵涛疑似恋情](https://www.zhihu.com/search?q=%E6%9D%8E%E5%B0%8F%E7%92%90%E8%B5%B5%E6%B6%9B%E7%96%91%E4%BC%BC%E6%81%8B%E6%83%85)
 1. [ 北方多地出现隐翅虫](https://www.zhihu.com/search?q=%20%E5%8C%97%E6%96%B9%E5%A4%9A%E5%9C%B0%E5%87%BA%E7%8E%B0%E9%9A%90%E7%BF%85%E8%99%AB)
+1. [iPhone Pro Max热销 Pro 遇冷](https://www.zhihu.com/search?q=iPhone%20Pro%20Max%E7%83%AD%E9%94%80%20Pro%20%E9%81%87%E5%86%B7)
 
 ## 热门话题
 
