@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-09-26 19:53:49 +0800`
+`更新时间：2026-09-26 23:13:39 +0800`
 
 ## 热门搜索
 
@@ -22,7 +22,6 @@
 1. [人民日报评第一学历歧视](https://www.zhihu.com/search?q=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E6%AD%A7%E8%A7%86)
 1. [多所高校取消吸烟学生学费减免资格](https://www.zhihu.com/search?q=%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E5%8F%96%E6%B6%88%E5%90%B8%E7%83%9F%E5%AD%A6%E7%94%9F%E5%AD%A6%E8%B4%B9%E5%87%8F%E5%85%8D%E8%B5%84%E6%A0%BC)
 1. [看山今日一签](https://www.zhihu.com/search?q=%E7%9C%8B%E5%B1%B1%E4%BB%8A%E6%97%A5%E4%B8%80%E7%AD%BE)
-1. [2026 国庆](https://www.zhihu.com/search?q=2026%20%E5%9B%BD%E5%BA%86)
 1. [苹果高管：看到iPhone贴膜浑身不自在](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E9%AB%98%E7%AE%A1%EF%BC%9A%E7%9C%8B%E5%88%B0iPhone%E8%B4%B4%E8%86%9C%E6%B5%91%E8%BA%AB%E4%B8%8D%E8%87%AA%E5%9C%A8)
 1. [中国男篮的病灶到底有多深](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E7%9A%84%E7%97%85%E7%81%B6%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E6%B7%B1)
 1. [每周至少半天校外实践教学](https://www.zhihu.com/search?q=%E6%AF%8F%E5%91%A8%E8%87%B3%E5%B0%91%E5%8D%8A%E5%A4%A9%E6%A0%A1%E5%A4%96%E5%AE%9E%E8%B7%B5%E6%95%99%E5%AD%A6)
@@ -36,8 +35,11 @@
 1. [马斯克无聊公司将修超级高铁](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%97%A0%E8%81%8A%E5%85%AC%E5%8F%B8%E5%B0%86%E4%BF%AE%E8%B6%85%E7%BA%A7%E9%AB%98%E9%93%81)
 1. [一份 25 元外卖商家到手 6 元](https://www.zhihu.com/search?q=%E4%B8%80%E4%BB%BD%2025%20%E5%85%83%E5%A4%96%E5%8D%96%E5%95%86%E5%AE%B6%E5%88%B0%E6%89%8B%206%20%E5%85%83)
 1. [《微微一笑很倾城》女主换脸重新上线](https://www.zhihu.com/search?q=%E3%80%8A%E5%BE%AE%E5%BE%AE%E4%B8%80%E7%AC%91%E5%BE%88%E5%80%BE%E5%9F%8E%E3%80%8B%E5%A5%B3%E4%B8%BB%E6%8D%A2%E8%84%B8%E9%87%8D%E6%96%B0%E4%B8%8A%E7%BA%BF)
-1. [余承东称将聚焦鸿蒙智行四界](https://www.zhihu.com/search?q=%E4%BD%99%E6%89%BF%E4%B8%9C%E7%A7%B0%E5%B0%86%E8%81%9A%E7%84%A6%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E5%9B%9B%E7%95%8C)
 1. [ ​​余承东称赛力斯主动提出自己主导](https://www.zhihu.com/search?q=%20%E2%80%8B%E2%80%8B%E4%BD%99%E6%89%BF%E4%B8%9C%E7%A7%B0%E8%B5%9B%E5%8A%9B%E6%96%AF%E4%B8%BB%E5%8A%A8%E6%8F%90%E5%87%BA%E8%87%AA%E5%B7%B1%E4%B8%BB%E5%AF%BC)
+1. [维维黑芝麻糊霉菌超标 27 倍](https://www.zhihu.com/search?q=%E7%BB%B4%E7%BB%B4%E9%BB%91%E8%8A%9D%E9%BA%BB%E7%B3%8A%E9%9C%89%E8%8F%8C%E8%B6%85%E6%A0%87%2027%20%E5%80%8D)
+1. [A股进入节前模式](https://www.zhihu.com/search?q=A%E8%82%A1%E8%BF%9B%E5%85%A5%E8%8A%82%E5%89%8D%E6%A8%A1%E5%BC%8F)
+1. [吉利发布新一代AI智充技术](https://www.zhihu.com/search?q=%E5%90%89%E5%88%A9%E5%8F%91%E5%B8%83%E6%96%B0%E4%B8%80%E4%BB%A3AI%E6%99%BA%E5%85%85%E6%8A%80%E6%9C%AF)
+1. [闪身步是什么梗](https://www.zhihu.com/search?q=%E9%97%AA%E8%BA%AB%E6%AD%A5%E6%98%AF%E4%BB%80%E4%B9%88%E6%A2%97)
 
 ## 热门话题
 
