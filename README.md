@@ -11,13 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-10-07 07:24:13 +0800`
+`更新时间：2026-10-07 10:58:30 +0800`
 
 ## 热门搜索
 
-1. [国庆节](https://www.zhihu.com/search?q=%E5%9B%BD%E5%BA%86%E8%8A%82)
-1. [韦世豪被红牌罚下](https://www.zhihu.com/search?q=%E9%9F%A6%E4%B8%96%E8%B1%AA%E8%A2%AB%E7%BA%A2%E7%89%8C%E7%BD%9A%E4%B8%8B)
-1. [诺贝尔物理学奖预测](https://www.zhihu.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%89%A9%E7%90%86%E5%AD%A6%E5%A5%96%E9%A2%84%E6%B5%8B)
+1. [杭天琪女儿控诉冯文娟破坏家庭](https://www.zhihu.com/search?q=%E6%9D%AD%E5%A4%A9%E7%90%AA%E5%A5%B3%E5%84%BF%E6%8E%A7%E8%AF%89%E5%86%AF%E6%96%87%E5%A8%9F%E7%A0%B4%E5%9D%8F%E5%AE%B6%E5%BA%AD)
+1. [国乒 28 年来首次无缘男单前三](https://www.zhihu.com/search?q=%E5%9B%BD%E4%B9%92%2028%20%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1%E6%97%A0%E7%BC%98%E7%94%B7%E5%8D%95%E5%89%8D%E4%B8%89)
 1. [2026名古屋亚运会](https://www.zhihu.com/search?q=2026%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A)
 1. [2026 国庆](https://www.zhihu.com/search?q=2026%20%E5%9B%BD%E5%BA%86)
 1. [邵佳一 国足](https://www.zhihu.com/search?q=%E9%82%B5%E4%BD%B3%E4%B8%80%20%E5%9B%BD%E8%B6%B3)
