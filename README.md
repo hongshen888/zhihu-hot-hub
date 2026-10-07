@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-10-08 01:03:33 +0800`
+`更新时间：2026-10-08 06:22:17 +0800`
 
 ## 热门搜索
 
@@ -21,7 +21,6 @@
 1. [2026 国庆](https://www.zhihu.com/search?q=2026%20%E5%9B%BD%E5%BA%86)
 1. [邵佳一 国足](https://www.zhihu.com/search?q=%E9%82%B5%E4%BD%B3%E4%B8%80%20%E5%9B%BD%E8%B6%B3)
 1. [国足0比5惨败却让小将接受采访](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B30%E6%AF%945%E6%83%A8%E8%B4%A5%E5%8D%B4%E8%AE%A9%E5%B0%8F%E5%B0%86%E6%8E%A5%E5%8F%97%E9%87%87%E8%AE%BF)
-1. [《艾希》续作众筹破 1200 万元](https://www.zhihu.com/search?q=%E3%80%8A%E8%89%BE%E5%B8%8C%E3%80%8B%E7%BB%AD%E4%BD%9C%E4%BC%97%E7%AD%B9%E7%A0%B4%201200%20%E4%B8%87%E5%85%83)
 1. [网传俄实验室发生鼠疫泄漏](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E4%BF%84%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%8F%91%E7%94%9F%E9%BC%A0%E7%96%AB%E6%B3%84%E6%BC%8F)
 1. [辅导员被要求与学生同吃同住](https://www.zhihu.com/search?q=%E8%BE%85%E5%AF%BC%E5%91%98%E8%A2%AB%E8%A6%81%E6%B1%82%E4%B8%8E%E5%AD%A6%E7%94%9F%E5%90%8C%E5%90%83%E5%90%8C%E4%BD%8F)
 1. [张家齐妈妈看见张家齐就哭](https://www.zhihu.com/search?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88%E7%9C%8B%E8%A7%81%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%B0%B1%E5%93%AD)
